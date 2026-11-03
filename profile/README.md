@@ -33,10 +33,10 @@ Aneka Ekspedisi adalah penyedia jasa ekspedisi dan logistik yang berkomitmen men
 
 ## 🛠️ Teknologi
 
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ## 📍 Hubungi Kami
 
